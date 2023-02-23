@@ -1,0 +1,13 @@
+target/
+
+# JetBrains IDE
+.idea/
+
+# Terraform
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
